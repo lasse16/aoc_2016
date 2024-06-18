@@ -1,5 +1,3 @@
-// SOMETHING WRONG
-// WRONG ANSWER [ 41 ]
 pub fn solve(input: &str) -> String {
     input
         .lines()
